@@ -1,0 +1,219 @@
+round,game_type,home_team,away_team,venue,h_q1,h_q2,h_q3,h_q4,a_q1,a_q2,a_q3,a_q4,h_total,a_total,h_goals_q1,h_goals_q2,h_goals_q3,h_goals_q4,a_goals_q1,a_goals_q2,a_goals_q3,a_goals_q4,h_behinds_q1,h_behinds_q2,h_behinds_q3,h_behinds_q4,a_behinds_q1,a_behinds_q2,a_behinds_q3,a_behinds_q4
+1,H&A,Sydney,Carlton,S.C.G.,3,15,75,39,14,14,26,15,132,69,0,2,12,6,2,2,4,2,3,3,3,3,2,2,2,3
+1,H&A,Gold Coast,Geelong,Carrara,43,28,45,9,14,15,8,32,125,69,7,4,7,1,2,2,1,5,1,4,3,3,2,3,2,2
+1,H&A,Greater Western Sydney,Hawthorn,Sydney Showground,51,31,32,8,32,15,26,22,122,95,8,5,5,1,5,2,4,3,3,1,2,2,2,3,2,4
+1,H&A,Brisbane Lions,Western Bulldogs,Gabba,19,24,38,25,19,21,28,43,106,111,3,3,6,3,2,3,4,7,1,6,2,7,7,3,4,1
+1,H&A,St Kilda,Collingwood,M.C.G.,16,21,15,14,27,8,35,8,66,78,2,3,2,2,4,1,5,1,4,3,3,2,3,2,5,2
+2,H&A,Carlton,Richmond,M.C.G.,40,23,4,8,21,15,18,17,75,71,6,3,0,1,3,2,2,2,4,5,4,2,3,3,6,5
+2,H&A,Essendon,Hawthorn,M.C.G.,27,12,20,24,34,49,39,23,83,145,4,2,3,4,5,7,6,3,3,0,2,0,4,7,3,5
+2,H&A,Western Bulldogs,Greater Western Sydney,Docklands,31,36,35,32,15,14,15,9,134,53,5,6,5,5,2,2,2,1,1,0,5,2,3,2,3,3
+2,H&A,Geelong,Fremantle,Kardinia Park,19,33,34,24,52,22,22,4,110,100,3,5,5,3,8,3,3,0,1,3,4,6,4,4,4,4
+2,H&A,Sydney,Brisbane Lions,S.C.G.,43,23,9,29,9,9,16,26,104,60,7,3,1,4,1,1,2,4,1,5,3,5,3,3,4,2
+2,H&A,Collingwood,Adelaide,M.C.G.,1,31,14,33,15,20,41,17,79,93,0,4,2,5,2,3,6,2,1,7,2,3,3,2,5,5
+2,H&A,North Melbourne,Port Adelaide,Docklands,22,31,35,25,14,14,22,17,113,67,3,5,5,4,2,2,3,2,4,1,5,1,2,2,4,5
+2,H&A,Melbourne,St Kilda,M.C.G.,21,40,32,27,28,31,30,18,120,107,3,6,5,4,4,5,4,2,3,4,2,3,4,1,6,6
+2,H&A,Gold Coast,West Coast,Carrara,45,39,20,27,7,15,34,16,131,72,7,6,3,4,1,2,5,2,3,3,2,3,1,3,4,4
+3,H&A,Hawthorn,Sydney,M.C.G.,33,10,21,35,38,6,31,7,99,82,5,1,3,5,6,1,5,1,3,4,3,5,2,0,1,1
+3,H&A,Adelaide,Western Bulldogs,Adelaide Oval,18,14,23,33,22,25,26,21,88,94,3,2,3,5,3,4,4,3,0,2,5,3,4,1,2,3
+3,H&A,Richmond,Gold Coast,M.C.G.,14,20,19,7,14,51,28,35,60,128,2,3,3,1,2,8,4,5,2,2,1,1,2,3,4,5
+3,H&A,Greater Western Sydney,St Kilda,Sydney Showground,9,15,19,31,34,22,14,8,74,78,1,2,2,5,5,3,2,1,3,3,7,1,4,4,2,2
+3,H&A,Fremantle,Melbourne,Perth Stadium,49,16,44,9,7,27,8,28,118,70,7,2,7,1,1,4,1,4,7,4,2,3,1,3,2,4
+3,H&A,Port Adelaide,Essendon,Adelaide Oval,41,26,33,33,9,9,20,32,133,70,6,4,5,5,1,1,3,5,5,2,3,3,3,3,2,2
+3,H&A,West Coast,North Melbourne,Perth Stadium,19,29,49,14,43,12,12,27,111,94,3,4,8,2,7,2,2,4,1,5,1,2,1,0,0,3
+4,H&A,Geelong,Adelaide,Kardinia Park,28,13,10,17,14,19,14,13,68,60,4,2,1,2,2,3,2,2,4,1,4,5,2,1,2,1
+4,H&A,Collingwood,Greater Western Sydney,Docklands,31,8,20,28,17,13,10,14,87,54,5,1,3,4,2,2,1,2,1,2,2,4,5,1,4,2
+4,H&A,St Kilda,Brisbane Lions,Docklands,13,26,27,14,5,26,37,45,80,113,1,4,4,2,0,4,6,7,7,2,3,2,5,2,1,3
+4,H&A,Fremantle,Richmond,Perth Stadium,11,28,39,25,3,30,1,9,103,43,1,4,5,3,0,5,0,1,5,4,9,7,3,0,1,3
+4,H&A,Essendon,North Melbourne,Docklands,17,15,10,27,20,24,34,3,69,81,2,2,1,4,3,4,5,0,5,3,4,3,2,0,4,3
+4,H&A,Port Adelaide,West Coast,Adelaide Oval,35,19,11,25,13,33,30,16,90,92,5,3,1,4,2,5,4,2,5,1,5,1,1,3,6,4
+4,H&A,Carlton,Melbourne,M.C.G.,38,8,16,15,1,11,38,50,77,100,6,1,2,2,0,1,6,8,2,2,4,3,1,5,2,2
+5,H&A,Brisbane Lions,Collingwood,Gabba,40,22,17,40,19,14,19,13,119,65,6,3,2,6,3,2,3,2,4,4,5,4,1,2,1,1
+5,H&A,North Melbourne,Carlton,Docklands,21,16,14,45,22,18,33,13,96,86,3,2,2,7,3,3,5,2,3,4,2,3,4,0,3,1
+5,H&A,Adelaide,Fremantle,Adelaide Oval,21,8,30,17,27,27,9,15,76,78,3,1,5,2,4,4,1,2,3,2,0,5,3,3,3,3
+5,H&A,Richmond,Port Adelaide,M.C.G.,1,21,10,16,12,25,22,31,48,90,0,3,1,2,1,4,3,5,1,3,4,4,6,1,4,1
+5,H&A,West Coast,Sydney,Perth Stadium,5,15,9,6,38,45,47,33,35,163,0,2,1,1,6,7,7,4,5,3,3,0,2,3,5,9
+5,H&A,Melbourne,Gold Coast,M.C.G.,18,38,34,19,25,25,26,13,109,89,2,6,5,3,4,4,4,2,6,2,4,1,1,1,2,1
+5,H&A,Western Bulldogs,Essendon,Docklands,44,23,7,25,9,4,26,26,99,65,7,3,0,4,1,0,4,4,2,5,7,1,3,4,2,2
+5,H&A,Hawthorn,Geelong,M.C.G.,21,26,22,23,13,43,9,26,92,91,3,4,3,3,2,7,1,4,3,2,4,5,1,1,3,2
+6,H&A,Adelaide,Carlton,Adelaide Oval,39,39,14,22,46,8,8,24,114,86,6,6,2,3,7,1,1,3,3,3,2,4,4,2,2,6
+6,H&A,Collingwood,Fremantle,Adelaide Oval,8,15,13,3,7,7,18,13,39,45,1,2,2,0,1,1,3,2,2,3,1,3,1,1,0,1
+6,H&A,North Melbourne,Brisbane Lions,Barossa Park,27,9,14,16,15,17,34,26,66,92,4,1,2,2,2,2,5,4,3,3,2,4,3,5,4,2
+6,H&A,Essendon,Melbourne,Adelaide Oval,23,21,37,32,19,31,9,9,113,68,3,3,6,5,3,5,1,1,5,3,1,2,1,1,3,3
+6,H&A,Sydney,Gold Coast,Norwood Oval,36,15,22,27,13,22,21,12,100,68,5,2,3,4,2,3,3,1,6,3,4,3,1,4,3,6
+6,H&A,Hawthorn,Western Bulldogs,Adelaide Oval,26,21,23,34,15,4,30,15,104,64,4,3,3,5,2,0,4,2,2,3,5,4,3,4,6,3
+6,H&A,Geelong,West Coast,Norwood Oval,29,39,29,25,22,16,24,14,122,76,4,6,4,3,3,2,4,2,5,3,5,7,4,4,0,2
+6,H&A,Greater Western Sydney,Richmond,Barossa Park,52,21,31,27,14,26,27,8,131,75,8,3,5,4,2,4,4,1,4,3,1,3,2,2,3,2
+6,H&A,Port Adelaide,St Kilda,Adelaide Oval,8,21,30,8,28,28,12,13,67,81,1,3,4,1,4,4,2,2,2,3,6,2,4,4,0,1
+7,H&A,Carlton,Collingwood,M.C.G.,15,26,22,20,16,11,18,43,83,88,2,4,3,3,2,1,3,7,3,2,4,2,4,5,0,1
+7,H&A,Geelong,Western Bulldogs,Kardinia Park,40,38,11,42,8,13,26,9,131,56,6,6,1,6,1,2,4,1,4,2,5,6,2,1,2,3
+7,H&A,Sydney,Greater Western Sydney,S.C.G.,25,20,18,44,17,9,20,20,107,66,4,3,3,7,2,1,2,3,1,2,0,2,5,3,8,2
+7,H&A,Gold Coast,Essendon,Carrara,33,25,43,18,25,36,28,21,119,110,5,3,7,2,4,6,4,3,3,7,1,6,1,0,4,3
+7,H&A,Hawthorn,Port Adelaide,Docklands,45,2,25,17,19,37,16,14,89,86,7,0,4,2,3,6,2,2,3,2,1,5,1,1,4,2
+7,H&A,Adelaide,St Kilda,Adelaide Oval,8,44,33,18,28,16,26,32,103,102,1,7,5,2,4,2,4,5,2,2,3,6,4,4,2,2
+7,H&A,North Melbourne,Richmond,Docklands,33,30,29,38,13,11,12,19,130,55,5,5,4,6,1,1,2,3,3,0,5,2,7,5,0,1
+7,H&A,Melbourne,Brisbane Lions,M.C.G.,25,11,38,30,25,27,16,34,104,102,4,1,6,5,4,4,2,5,1,5,2,0,1,3,4,4
+7,H&A,West Coast,Fremantle,Perth Stadium,6,14,12,9,16,26,28,27,41,97,0,2,2,1,2,4,4,4,6,2,0,3,4,2,4,3
+8,H&A,Western Bulldogs,Sydney,Docklands,26,13,14,7,22,30,35,39,60,126,4,2,2,1,3,4,5,6,2,1,2,1,4,6,5,3
+8,H&A,Richmond,Melbourne,M.C.G.,19,25,21,7,28,37,22,39,72,126,3,4,3,1,4,6,3,6,1,1,3,1,4,1,4,3
+8,H&A,Hawthorn,Gold Coast,York Park,28,34,19,31,14,25,21,3,112,63,4,5,3,4,2,4,3,0,4,4,1,7,2,1,3,3
+8,H&A,Essendon,Collingwood,M.C.G.,15,7,14,24,24,12,43,58,60,137,2,1,2,4,4,1,6,9,3,1,2,0,0,6,7,4
+8,H&A,Port Adelaide,Geelong,Adelaide Oval,30,20,19,26,24,13,8,20,95,65,4,3,2,4,4,2,1,3,6,2,7,2,0,1,2,2
+8,H&A,Fremantle,Carlton,Perth Stadium,21,31,21,30,13,28,14,34,103,89,3,5,3,5,2,4,2,5,3,1,3,0,1,4,2,4
+8,H&A,St Kilda,West Coast,Docklands,22,30,43,48,3,9,28,2,143,42,3,4,7,8,0,1,4,0,4,6,1,0,3,3,4,2
+8,H&A,Brisbane Lions,Adelaide,Gabba,29,33,42,23,25,14,9,27,127,75,4,5,7,3,4,2,1,4,5,3,0,5,1,2,3,3
+8,H&A,Greater Western Sydney,North Melbourne,Manuka Oval,20,29,21,35,27,22,15,34,105,98,3,4,3,5,4,3,2,5,2,5,3,5,3,4,3,4
+9,H&A,Collingwood,Hawthorn,M.C.G.,30,15,30,18,13,27,37,16,93,93,5,2,5,3,1,4,6,2,0,3,0,0,7,3,1,4
+9,H&A,Western Bulldogs,Fremantle,Docklands,39,21,15,27,13,33,33,35,102,114,6,3,2,4,2,5,5,5,3,3,3,3,1,3,3,5
+9,H&A,Adelaide,Port Adelaide,Adelaide Oval,8,14,35,19,20,8,21,26,76,75,1,2,5,3,3,1,3,4,2,2,5,1,2,2,3,2
+9,H&A,Essendon,Brisbane Lions,Docklands,9,23,9,38,38,27,45,33,79,143,1,3,1,6,6,4,7,5,3,5,3,2,2,3,3,3
+9,H&A,West Coast,Richmond,Perth Stadium,14,28,21,25,21,31,15,32,88,99,2,4,3,4,3,5,2,5,2,4,3,1,3,1,3,2
+9,H&A,Geelong,North Melbourne,Kardinia Park,27,9,43,56,20,15,27,24,135,86,4,1,7,9,3,2,4,4,3,3,1,2,2,3,3,0
+9,H&A,Carlton,St Kilda,Docklands,16,33,10,10,21,16,52,19,69,108,2,5,1,1,3,2,8,3,4,3,4,4,3,4,4,1
+9,H&A,Sydney,Melbourne,S.C.G.,32,36,25,38,34,12,22,46,131,114,5,5,3,6,5,2,3,7,2,6,7,2,4,0,4,4
+9,H&A,Gold Coast,Greater Western Sydney,Carrara,22,10,29,22,13,15,15,20,83,63,3,1,4,3,1,2,2,3,4,4,5,4,7,3,3,2
+10,H&A,Fremantle,Hawthorn,Perth Stadium,28,16,8,36,26,33,8,6,88,73,4,2,1,5,4,5,1,1,4,4,2,6,2,3,2,0
+10,H&A,Brisbane Lions,Carlton,Gabba,29,27,21,23,15,3,39,32,100,89,4,4,3,3,2,0,6,5,5,3,3,5,3,3,3,2
+10,H&A,Port Adelaide,Western Bulldogs,Adelaide Oval,25,16,14,17,38,21,1,14,72,74,4,2,2,2,6,3,0,1,1,4,2,5,2,3,1,8
+10,H&A,North Melbourne,Sydney,Docklands,38,18,25,16,31,24,39,11,97,105,6,2,4,2,5,4,6,1,2,6,1,4,1,0,3,5
+10,H&A,Greater Western Sydney,Essendon,Sydney Showground,24,8,39,32,20,27,26,16,103,89,4,1,6,5,3,4,4,2,0,2,3,2,2,3,2,4
+10,H&A,Gold Coast,St Kilda,Marrara Oval,7,39,14,29,32,4,10,14,89,60,1,6,2,4,5,0,1,2,1,3,2,5,2,4,4,2
+10,H&A,Geelong,Collingwood,M.C.G.,33,15,28,46,22,16,6,24,122,68,5,2,4,7,3,2,0,4,3,3,4,4,4,4,6,0
+10,H&A,Melbourne,West Coast,Docklands,33,21,31,14,8,15,16,28,99,67,5,3,5,2,1,2,2,4,3,3,1,2,2,3,4,4
+10,H&A,Richmond,Adelaide,M.C.G.,20,26,1,14,20,16,34,28,61,98,3,4,0,2,3,2,5,4,2,2,1,2,2,4,4,4
+11,H&A,Brisbane Lions,Geelong,Gabba,13,32,21,10,35,22,38,22,76,117,2,5,3,1,5,3,6,3,1,2,3,4,5,4,2,4
+11,H&A,Sydney,Collingwood,S.C.G.,10,14,42,15,32,13,15,15,81,75,1,2,6,2,5,1,2,2,4,2,6,3,2,7,3,3
+11,H&A,Gold Coast,Port Adelaide,Marrara Oval,32,37,21,8,16,26,8,23,98,73,5,6,3,1,2,4,1,3,2,1,3,2,4,2,2,5
+11,H&A,Adelaide,North Melbourne,Adelaide Oval,26,64,29,14,22,2,14,27,133,65,4,10,4,2,3,0,2,4,2,4,5,2,4,2,2,3
+11,H&A,Melbourne,Hawthorn,M.C.G.,21,21,38,40,21,15,24,21,120,81,3,3,6,6,3,2,4,3,3,3,2,4,3,3,0,3
+11,H&A,Carlton,Western Bulldogs,Docklands,17,7,17,33,25,9,15,13,74,62,2,1,2,5,4,1,2,2,5,1,5,3,1,3,3,1
+11,H&A,Essendon,Fremantle,M.C.G.,9,5,16,31,34,32,18,20,61,104,1,0,2,5,5,5,3,3,3,5,4,1,4,2,0,2
+11,H&A,St Kilda,Richmond,Docklands,33,32,22,22,12,27,15,19,109,73,5,5,3,3,2,4,2,3,3,2,4,4,0,3,3,1
+11,H&A,West Coast,Greater Western Sydney,Perth Stadium,8,38,14,28,18,14,32,7,88,71,1,6,2,4,2,2,5,1,2,2,2,4,6,2,2,1
+12,H&A,Hawthorn,Adelaide,York Park,14,33,16,12,26,8,9,23,75,66,2,5,2,1,4,1,1,3,2,3,4,6,2,2,3,5
+12,H&A,Richmond,Essendon,M.C.G.,29,20,9,16,14,20,12,10,74,56,4,3,1,2,2,3,1,1,5,2,3,4,2,2,6,4
+12,H&A,Fremantle,St Kilda,Perth Stadium,19,25,21,39,25,20,14,15,104,74,3,4,3,6,4,3,2,2,1,1,3,3,1,2,2,3
+12,H&A,North Melbourne,Gold Coast,Docklands,25,12,28,46,42,33,10,20,111,105,4,2,4,7,7,5,1,3,1,0,4,4,0,3,4,2
+12,H&A,Geelong,Sydney,Kardinia Park,22,36,27,22,26,12,33,9,107,80,3,5,4,3,4,2,5,1,4,6,3,4,2,0,3,3
+12,H&A,Collingwood,West Coast,M.C.G.,18,27,27,20,20,15,26,21,92,82,2,4,4,3,3,2,4,3,6,3,3,2,2,3,2,3
+12,H&A,Port Adelaide,Carlton,Adelaide Oval,12,11,14,21,30,28,10,24,58,92,2,1,2,3,5,4,1,3,0,5,2,3,0,4,4,6
+12,H&A,Greater Western Sydney,Brisbane Lions,Sydney Showground,38,21,86,21,32,21,3,32,166,88,6,3,14,3,5,3,0,5,2,3,2,3,2,3,3,2
+12,H&A,Western Bulldogs,Melbourne,Docklands,19,32,27,15,9,34,33,14,93,90,3,5,4,2,1,5,5,2,1,2,3,3,3,4,3,2
+13,H&A,St Kilda,Hawthorn,Docklands,2,3,38,24,20,35,34,30,67,119,0,0,6,3,3,5,5,5,2,3,2,6,2,5,4,0
+13,H&A,Carlton,Geelong,M.C.G.,9,30,26,23,28,16,20,20,88,84,1,4,4,3,4,2,3,3,3,6,2,5,4,4,2,2
+13,H&A,Sydney,Richmond,S.C.G.,45,52,49,24,25,21,3,7,170,56,7,8,7,3,4,3,0,1,3,4,7,6,1,3,3,1
+13,H&A,Brisbane Lions,Fremantle,Gabba,10,18,21,29,23,26,40,14,78,103,1,2,3,4,3,4,6,2,4,6,3,5,5,2,4,2
+13,H&A,Western Bulldogs,Collingwood,Docklands,28,21,27,21,21,11,26,35,97,93,4,3,4,3,3,1,4,5,4,3,3,3,3,5,2,5
+13,H&A,Melbourne,Greater Western Sydney,Traeger Park,22,22,16,10,24,32,31,32,70,119,3,3,2,1,4,5,5,5,4,4,4,4,0,2,1,2
+13,H&A,West Coast,Essendon,Perth Stadium,17,19,34,15,1,15,13,26,85,55,2,3,5,2,0,2,2,4,5,1,4,3,1,3,1,2
+14,H&A,Adelaide,Geelong,Adelaide Oval,20,19,15,21,18,15,19,22,75,74,3,3,2,3,2,2,3,3,2,1,3,3,6,3,1,4
+14,H&A,Hawthorn,Western Bulldogs,M.C.G.,14,40,12,5,12,15,31,19,71,77,2,6,1,0,2,2,5,3,2,4,6,5,0,3,1,1
+14,H&A,North Melbourne,Fremantle,Hands Oval,14,14,2,1,27,55,25,48,31,155,2,2,0,0,4,9,4,7,2,2,2,1,3,1,1,6
+14,H&A,Gold Coast,Brisbane Lions,Carrara,14,32,15,14,27,35,28,16,75,106,2,5,2,2,4,5,4,2,2,2,3,2,3,5,4,4
+14,H&A,West Coast,Port Adelaide,Perth Stadium,18,14,21,18,24,19,26,8,71,77,3,2,3,2,3,3,4,1,0,2,3,6,6,1,2,2
+14,H&A,Sydney,St Kilda,S.C.G.,21,42,18,23,38,33,16,15,104,102,3,6,3,3,6,5,2,2,3,6,0,5,2,3,4,3
+14,H&A,Essendon,Carlton,M.C.G.,15,24,7,21,8,17,21,26,67,72,2,4,1,3,1,2,3,4,3,0,1,3,2,5,3,2
+14,H&A,Collingwood,Melbourne,M.C.G.,26,13,21,15,22,15,18,28,75,83,4,2,3,2,3,2,3,4,2,1,3,3,4,3,0,4
+15,H&A,Western Bulldogs,Adelaide,Docklands,15,20,20,9,56,19,25,21,64,121,2,3,3,1,9,3,4,3,3,2,2,3,2,1,1,3
+15,H&A,Geelong,Gold Coast,Kardinia Park,25,26,20,34,19,4,16,21,105,60,4,4,2,5,3,0,2,3,1,2,8,4,1,4,4,3
+15,H&A,Melbourne,Essendon,M.C.G.,34,30,10,21,16,7,20,7,95,50,5,4,1,3,2,1,3,0,4,6,4,3,4,1,2,7
+15,H&A,North Melbourne,West Coast,Perth Stadium,17,21,27,9,22,15,14,22,74,73,2,3,4,1,3,2,2,3,5,3,3,3,4,3,2,4
+15,H&A,Port Adelaide,Sydney,Adelaide Oval,24,27,20,19,20,16,26,31,90,93,3,4,3,3,3,2,4,5,6,3,2,1,2,4,2,1
+15,H&A,Richmond,Brisbane Lions,Bellerive Oval,25,14,19,22,28,14,46,27,80,115,4,2,3,3,4,2,7,4,1,2,1,4,4,2,4,3
+15,H&A,St Kilda,Greater Western Sydney,Docklands,27,25,18,26,25,26,11,26,96,88,4,4,2,4,4,4,1,4,3,1,6,2,1,2,5,2
+16,H&A,Fremantle,Geelong,Perth Stadium,22,25,42,10,32,24,14,20,99,90,3,3,7,1,5,4,2,3,4,7,0,4,2,0,2,2
+16,H&A,Gold Coast,Hawthorn,Carrara,19,28,27,23,41,14,26,32,97,113,3,4,4,3,6,2,4,5,1,4,3,5,5,2,2,2
+16,H&A,Adelaide,Melbourne,Adelaide Oval,22,13,19,25,30,6,20,6,79,62,3,2,3,3,5,0,3,1,4,1,1,7,0,6,2,0
+16,H&A,Greater Western Sydney,Carlton,Sydney Showground,17,19,25,4,12,35,20,21,65,88,2,3,4,0,1,5,3,3,5,1,1,4,6,5,2,3
+16,H&A,Collingwood,Port Adelaide,M.C.G.,14,28,32,4,17,26,3,6,78,52,2,4,5,0,2,4,0,0,2,4,2,4,5,2,3,6
+16,H&A,Richmond,North Melbourne,M.C.G.,8,14,4,22,8,22,22,21,48,73,1,2,0,3,1,3,3,3,2,2,4,4,2,4,4,3
+16,H&A,St Kilda,Western Bulldogs,Docklands,22,9,13,17,20,27,11,25,61,83,3,1,2,2,3,4,1,4,4,3,1,5,2,3,5,1
+17,H&A,Brisbane Lions,Sydney,Gabba,25,30,38,33,15,13,23,32,126,83,4,4,6,5,2,2,3,5,1,6,2,3,3,1,5,2
+17,H&A,Hawthorn,Greater Western Sydney,M.C.G.,23,37,27,9,16,14,36,16,96,82,3,6,4,1,2,2,6,2,5,1,3,3,4,2,0,4
+17,H&A,Carlton,West Coast,Docklands,41,25,17,34,14,20,13,17,117,64,6,4,2,5,2,3,2,2,5,1,5,4,2,2,1,5
+17,H&A,Collingwood,Richmond,M.C.G.,15,39,22,30,15,6,27,24,106,72,2,6,3,4,2,1,4,4,3,3,4,6,3,0,3,0
+17,H&A,Port Adelaide,Adelaide,Adelaide Oval,22,32,31,12,26,12,14,19,97,71,3,5,4,1,4,2,2,3,4,2,7,6,2,0,2,1
+17,H&A,North Melbourne,Essendon,Docklands,18,21,24,16,14,16,8,27,79,65,2,3,3,2,2,2,1,4,6,3,6,4,2,4,2,3
+17,H&A,Fremantle,Gold Coast,Perth Stadium,28,3,29,20,2,9,9,9,80,29,4,0,4,3,0,1,1,1,4,3,5,2,2,3,3,3
+18,H&A,Geelong,Brisbane Lions,Kardinia Park,11,42,27,21,48,12,50,13,101,123,1,6,4,3,8,1,8,2,5,6,3,3,0,6,2,1
+18,H&A,Sydney,Western Bulldogs,S.C.G.,33,20,17,20,3,23,20,9,90,55,5,3,2,3,0,3,3,1,3,2,5,2,3,5,2,3
+18,H&A,West Coast,Adelaide,Perth Stadium,9,20,27,18,38,21,27,13,74,99,1,3,4,3,6,3,4,2,3,2,3,0,2,3,3,1
+18,H&A,Hawthorn,Melbourne,York Park,8,1,26,55,47,39,27,12,90,125,1,0,4,9,7,6,4,2,2,1,2,1,5,3,3,0
+18,H&A,Greater Western Sydney,Fremantle,Manuka Oval,33,25,29,22,31,14,20,23,109,88,5,4,4,3,5,2,3,3,3,1,5,4,1,2,2,5
+18,H&A,Gold Coast,Collingwood,Carrara,20,25,27,26,28,29,22,25,98,104,3,4,4,4,4,4,3,4,2,1,3,2,4,5,4,1
+18,H&A,Richmond,Carlton,M.C.G.,33,8,9,22,15,34,15,10,72,74,5,1,1,3,2,5,2,1,3,2,3,4,3,4,3,4
+18,H&A,Essendon,St Kilda,Docklands,13,8,8,21,34,52,8,23,50,117,2,1,1,3,5,8,1,3,1,2,2,3,4,4,2,5
+18,H&A,Port Adelaide,North Melbourne,Adelaide Oval,9,27,15,22,9,8,34,1,73,52,1,4,2,3,1,1,5,0,3,3,3,4,3,2,4,1
+19,H&A,Fremantle,Sydney,Perth Stadium,5,6,41,59,24,9,21,19,111,73,0,0,6,9,3,1,3,3,5,6,5,5,6,3,3,1
+19,H&A,Collingwood,North Melbourne,Docklands,28,19,20,22,22,20,22,21,89,85,4,3,3,3,3,3,3,3,4,1,2,4,4,2,4,3
+19,H&A,St Kilda,Port Adelaide,Docklands,26,35,12,14,8,17,40,8,87,73,4,5,2,2,1,2,6,1,2,5,0,2,2,5,4,2
+19,H&A,Greater Western Sydney,Geelong,Sydney Showground,14,10,16,46,32,17,18,6,86,73,2,1,2,7,5,2,3,1,2,4,4,4,2,5,0,0
+19,H&A,Carlton,Hawthorn,M.C.G.,12,1,14,12,14,19,34,36,39,103,2,0,2,2,2,3,5,5,0,1,2,0,2,1,4,6
+19,H&A,Adelaide,Gold Coast,Adelaide Oval,20,30,40,38,15,8,7,19,128,49,3,4,6,6,2,1,1,3,2,6,4,2,3,2,1,1
+19,H&A,Western Bulldogs,West Coast,Docklands,26,11,25,24,17,27,15,11,86,70,4,1,4,4,2,4,2,1,2,5,1,0,5,3,3,5
+19,H&A,Melbourne,Richmond,M.C.G.,32,31,20,28,20,9,11,25,111,65,5,4,3,4,3,1,1,4,2,7,2,4,2,3,5,1
+19,H&A,Brisbane Lions,Essendon,Gabba,36,28,46,39,3,9,3,44,149,59,5,4,7,6,0,1,0,7,6,4,4,3,3,3,3,2
+20,H&A,Geelong,St Kilda,Kardinia Park,26,24,27,25,12,11,25,27,102,75,4,3,4,4,2,1,4,4,2,6,3,1,0,5,1,3
+20,H&A,Sydney,Adelaide,S.C.G.,20,25,17,9,41,12,3,31,71,87,3,4,2,1,6,2,0,5,2,1,5,3,5,0,3,1
+20,H&A,Port Adelaide,Fremantle,Adelaide Oval,33,21,7,14,31,11,38,23,75,103,5,3,1,2,5,1,6,3,3,3,1,2,1,5,2,5
+20,H&A,North Melbourne,Melbourne,Docklands,37,7,11,21,25,15,30,22,76,92,6,1,1,3,4,2,4,3,1,1,5,3,1,3,6,4
+20,H&A,Collingwood,Carlton,M.C.G.,18,20,32,20,16,14,26,13,90,69,3,3,5,3,2,2,4,2,0,2,2,2,4,2,2,1
+20,H&A,West Coast,Brisbane Lions,Perth Stadium,32,8,15,14,17,16,38,22,69,93,5,1,2,2,2,2,6,3,2,2,3,2,5,4,2,4
+20,H&A,Richmond,Hawthorn,M.C.G.,5,13,11,23,34,47,26,15,52,122,0,2,1,3,5,7,4,2,5,1,5,5,4,5,2,3
+20,H&A,Gold Coast,Western Bulldogs,Carrara,8,34,4,22,14,22,33,8,68,77,1,5,0,3,2,3,5,1,2,4,4,4,2,4,3,2
+20,H&A,Essendon,Greater Western Sydney,Docklands,16,8,24,19,15,6,21,22,67,64,2,1,4,3,2,0,3,3,4,2,0,1,3,6,3,4
+21,H&A,Adelaide,Collingwood,Adelaide Oval,33,15,12,14,20,20,28,40,74,108,5,2,2,2,3,3,4,6,3,3,0,2,2,2,4,4
+21,H&A,Melbourne,Geelong,M.C.G.,28,16,19,34,18,46,17,36,97,117,4,2,3,5,3,7,2,6,4,4,1,4,0,4,5,0
+21,H&A,Fremantle,West Coast,Perth Stadium,18,22,32,40,19,13,8,2,112,42,2,3,5,6,3,2,1,0,6,4,2,4,1,1,2,2
+21,H&A,Carlton,Gold Coast,Docklands,22,27,27,34,20,26,18,33,110,97,3,4,4,5,3,4,3,5,4,3,3,4,2,2,0,3
+21,H&A,Hawthorn,Essendon,M.C.G.,23,39,36,34,15,2,7,15,132,39,3,6,5,5,2,0,1,2,5,3,6,4,3,2,1,3
+21,H&A,Greater Western Sydney,Sydney,Sydney Showground,13,15,27,33,46,35,31,27,88,139,2,2,4,5,7,5,5,4,1,3,3,3,4,5,1,3
+21,H&A,Western Bulldogs,Richmond,Docklands,17,29,27,32,15,0,20,13,105,48,2,4,4,5,2,0,3,2,5,5,3,2,3,0,2,1
+21,H&A,Brisbane Lions,Port Adelaide,Gabba,22,16,43,45,15,14,23,15,126,67,3,2,7,7,2,2,3,2,4,4,1,3,3,2,5,3
+21,H&A,North Melbourne,St Kilda,Docklands,11,23,20,8,27,11,29,26,62,93,1,3,3,1,4,1,4,4,5,5,2,2,3,5,5,2
+22,H&A,Collingwood,Geelong,M.C.G.,8,20,20,24,32,25,8,32,72,97,1,3,3,3,5,4,1,5,2,2,2,6,2,1,2,2
+22,H&A,Fremantle,Western Bulldogs,Perth Stadium,9,20,17,32,8,21,3,9,78,41,1,3,2,5,1,3,0,1,3,2,5,2,2,3,3,3
+22,H&A,St Kilda,Sydney,Docklands,35,20,19,14,26,16,20,45,88,107,5,3,3,2,4,2,3,7,5,2,1,2,2,4,2,3
+22,H&A,Hawthorn,North Melbourne,York Park,9,37,22,31,26,20,23,14,99,83,1,5,3,5,4,3,3,2,3,7,4,1,2,2,5,2
+22,H&A,Port Adelaide,Greater Western Sydney,Adelaide Oval,14,26,13,10,13,29,28,5,63,75,2,4,2,1,2,4,4,0,2,2,1,4,1,5,4,5
+22,H&A,Carlton,Brisbane Lions,Docklands,39,40,38,37,35,26,14,3,154,78,6,6,6,6,5,4,2,0,3,4,2,1,5,2,2,3
+22,H&A,Richmond,West Coast,M.C.G.,28,18,14,24,18,13,17,25,84,73,4,3,2,3,2,1,2,4,4,0,2,6,6,7,5,1
+22,H&A,Gold Coast,Melbourne,Carrara,27,27,32,19,30,20,37,27,105,114,4,4,5,3,5,3,6,4,3,3,2,1,0,2,1,3
+22,H&A,Essendon,Adelaide,Docklands,19,14,14,26,44,22,31,48,73,145,3,2,2,4,7,3,5,8,1,2,2,2,2,4,1,0
+23,H&A,Western Bulldogs,North Melbourne,Docklands,15,21,33,8,36,26,17,21,77,100,2,3,5,1,6,4,2,3,3,3,3,2,0,2,5,3
+23,H&A,Brisbane Lions,Hawthorn,Gabba,15,41,34,35,9,19,16,14,125,58,2,6,5,5,1,3,2,2,3,5,4,5,3,1,4,2
+23,H&A,Melbourne,Fremantle,M.C.G.,32,33,15,33,32,36,20,21,113,109,5,5,2,5,5,6,3,3,2,3,3,3,2,0,2,3
+23,H&A,Sydney,Port Adelaide,S.C.G.,20,58,25,64,22,14,8,26,167,70,3,9,4,10,3,2,1,4,2,4,1,4,4,2,2,2
+23,H&A,Geelong,Essendon,Kardinia Park,29,40,20,28,4,12,27,7,117,50,4,6,3,4,0,2,4,1,5,4,2,4,4,0,3,1
+23,H&A,Adelaide,Richmond,Adelaide Oval,9,20,20,14,14,14,17,9,63,54,1,3,3,2,2,2,2,1,3,2,2,2,2,2,5,3
+23,H&A,Greater Western Sydney,Gold Coast,Manuka Oval,16,9,31,21,22,13,33,11,77,79,2,1,5,3,3,2,5,1,4,3,1,3,4,1,3,5
+23,H&A,West Coast,Collingwood,Perth Stadium,37,22,19,20,39,26,36,16,98,117,6,3,3,3,6,4,5,2,1,4,1,2,3,2,6,4
+23,H&A,St Kilda,Carlton,Docklands,8,20,11,23,21,32,21,32,62,106,1,3,1,3,3,5,3,5,2,2,5,5,3,2,3,2
+24,H&A,Fremantle,Adelaide,Perth Stadium,34,13,29,36,21,21,27,19,112,88,5,2,4,5,3,3,4,3,4,1,5,6,3,3,3,1
+24,H&A,Richmond,St Kilda,M.C.G.,10,13,4,18,20,28,27,19,45,94,1,2,0,3,3,4,4,3,4,1,4,0,2,4,3,1
+24,H&A,North Melbourne,Geelong,Docklands,44,13,32,21,6,58,24,37,110,125,7,2,5,3,1,9,3,6,2,1,2,3,0,4,6,1
+24,H&A,Brisbane Lions,Gold Coast,Gabba,15,22,33,25,15,10,16,12,95,53,2,3,5,4,2,1,2,1,3,4,3,1,3,4,4,6
+24,H&A,Hawthorn,Collingwood,M.C.G.,15,10,35,32,15,32,10,35,92,92,2,1,5,5,2,5,1,5,3,4,5,2,3,2,4,5
+24,H&A,Port Adelaide,Melbourne,Adelaide Oval,8,12,22,14,44,13,38,37,56,132,1,2,3,2,7,2,6,5,2,0,4,2,2,1,2,7
+24,H&A,Greater Western Sydney,West Coast,Sydney Showground,32,38,17,24,31,5,4,17,111,57,5,6,2,3,5,0,0,2,2,2,5,6,1,5,4,5
+24,H&A,Western Bulldogs,Carlton,Docklands,20,26,16,20,33,8,26,15,82,82,3,4,2,3,5,1,4,2,2,2,4,2,3,2,2,3
+24,H&A,Essendon,Sydney,M.C.G.,18,28,15,15,55,15,17,25,76,112,3,4,2,2,9,2,2,4,0,4,3,3,1,3,5,1
+25,H&A,St Kilda,Gold Coast,Docklands,31,22,7,20,46,22,20,15,80,103,5,3,1,3,7,3,2,2,1,4,1,2,4,4,8,3
+25,H&A,Collingwood,Brisbane Lions,M.C.G.,21,20,13,42,33,30,40,56,96,159,3,3,2,7,5,5,6,9,3,2,1,0,3,0,4,2
+25,H&A,Carlton,Fremantle,Docklands,29,26,25,39,32,12,14,24,119,82,4,4,4,6,5,1,2,4,5,2,1,3,2,6,2,0
+25,H&A,Melbourne,Western Bulldogs,M.C.G.,20,16,18,33,34,13,22,39,87,108,3,2,2,5,5,2,3,6,2,4,6,3,4,1,4,3
+25,H&A,Geelong,Richmond,Kardinia Park,40,38,23,32,20,9,19,28,133,76,6,6,3,5,3,1,3,4,4,2,5,2,2,3,1,4
+25,H&A,Adelaide,Greater Western Sydney,Adelaide Oval,56,15,39,47,10,40,25,26,157,101,9,2,6,7,1,6,4,4,2,3,3,5,4,4,1,2
+25,H&A,Essendon,Port Adelaide,Docklands,17,21,25,32,21,33,8,43,95,105,2,3,4,5,3,5,1,7,5,3,1,2,3,3,2,1
+25,H&A,Sydney,North Melbourne,S.C.G.,27,34,14,48,20,15,19,16,123,70,4,5,1,7,3,2,3,2,3,4,8,6,2,3,1,4
+25,H&A,West Coast,Hawthorn,Perth Stadium,8,17,6,14,37,27,21,22,45,107,1,2,1,2,6,4,3,3,2,5,0,2,1,3,3,4
+Wildcard Final,Wildcard Final,Western Bulldogs,Collingwood,M.C.G.,25,23,20,28,24,14,18,37,96,93,4,3,3,4,4,2,2,6,1,5,2,4,0,2,6,1
+Wildcard Final,Wildcard Final,Melbourne,Carlton,M.C.G.,27,9,16,3,9,26,21,18,55,74,4,1,2,0,1,4,3,2,3,3,4,3,3,2,3,6
+Qualifying Final,Qualifying Final,Fremantle,Hawthorn,Perth Stadium,9,1,21,9,28,15,21,8,40,72,1,0,3,1,4,2,3,1,3,1,3,3,4,3,3,2
+Elimination Final,Elimination Final,Geelong,Carlton,M.C.G.,11,23,39,34,27,10,13,24,107,74,1,3,6,4,4,1,2,4,5,5,3,10,3,4,1,0
+Qualifying Final,Qualifying Final,Sydney,Brisbane Lions,S.C.G.,42,26,41,32,16,22,25,25,141,88,6,4,6,5,2,3,4,4,6,2,5,2,4,4,1,1
+Elimination Final,Elimination Final,Adelaide,Western Bulldogs,Adelaide Oval,19,25,15,31,13,25,2,28,90,68,3,4,2,5,1,4,0,4,1,1,3,1,7,1,2,4
+Semi Final,Semi Final,Fremantle,Geelong,Perth Stadium,38,27,31,24,13,31,36,26,120,106,6,4,5,3,2,5,5,4,2,3,1,6,1,1,6,2
+Semi Final,Semi Final,Brisbane Lions,Adelaide,Gabba,42,30,39,33,15,19,17,40,144,91,6,4,6,5,2,3,2,6,6,6,3,3,3,1,5,4
+Preliminary Final,Preliminary Final,Sydney,Fremantle,S.C.G.,29,19,22,1,13,16,20,34,71,83,4,3,3,0,2,2,3,5,5,1,4,1,1,4,2,4
+Preliminary Final,Preliminary Final,Hawthorn,Brisbane Lions,M.C.G.,31,36,10,45,32,21,44,34,122,131,5,6,1,7,5,3,7,5,1,0,4,3,2,3,2,4
+Grand Final,Grand Final,Fremantle,Brisbane Lions,M.C.G.,22,21,29,17,23,20,19,34,89,96,3,3,4,2,3,3,3,5,4,3,5,5,5,2,1,4
