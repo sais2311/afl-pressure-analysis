@@ -183,9 +183,9 @@ for _, g in finals.iterrows():
     elif winner == away:
         print(f"AWAY WIN: {winner} won at {g['venue']} (no home comfort for {home})")
 
-# ============================================================
-# SUMMARY TABLE
-# ============================================================
+
+# summary table
+
 print(f"\n\n{'='*70}")
 print("FINALS PRESSURE SUMMARY TABLE")
 print(f"{'='*70}")
