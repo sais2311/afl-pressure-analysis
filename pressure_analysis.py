@@ -42,9 +42,7 @@ print("2026 AFL PRESSURE ANALYSIS")
 print("Do finals change the game?")
 print("=" * 70)
 
-# ============================================================
-# 1. SCORING BY QUARTER: finals vs regular season
-# ============================================================
+#Scoring by quater . finals vs home-away season
 print("\n" + "=" * 70)
 print("ANALYSIS 1: Scoring by Quarter (Finals vs Regular Season)")
 print("=" * 70)
@@ -63,9 +61,7 @@ for q in ["q1","q2","q3","q4"]:
     diff = finals_rows[q].mean() - ha_rows[q].mean()
     print(f"  {q.upper()}: {diff:+.1f}")
 
-# ============================================================
-# 2. GOAL ACCURACY BY QUARTER (pressure proxy)
-# ============================================================
+# Goal Accuracy By Quater 
 print("\n" + "=" * 70)
 print("ANALYSIS 2: Goal Accuracy by Quarter (Pressure Proxy)")
 print("=" * 70)
@@ -80,9 +76,7 @@ for label, rows in [("Regular Season", ha_rows), ("Finals", finals_rows)]:
         acc = g / shots * 100 if shots > 0 else 0
         print(f"  Q{i}: {acc:.1f}% ({g} goals from {shots} shots)")
 
-# ============================================================
-# 3. THE DECISIVE QUARTER
-# ============================================================
+# The quater that matters
 print("\n" + "=" * 70)
 print("ANALYSIS 3: The Decisive Quarter")
 print("=" * 70)
@@ -152,9 +146,7 @@ if leader != winner:
 else:
     print(f"  {winner} led at 3QT and held on")
 
-# ============================================================
-# 5. FORCING OPPONENTS BELOW AVERAGE (Pressure as a weapon)
-# ============================================================
+# Pressure
 print("\n" + "=" * 70)
 print("ANALYSIS 5: Pressure as a Weapon (Opponent Suppression)")
 print("=" * 70)
@@ -185,9 +177,7 @@ print("\nAvg opponent suppression in finals (positive = held opponent below thei
 for team, val in team_suppress.items():
     print(f"  {team:24s} {val:+.1f} pts")
 
-# ============================================================
-# 6. PRESSURE RATINGS (your own composite metric)
-# ============================================================
+# Pressure ratings
 print("\n" + "=" * 70)
 print("ANALYSIS 6: Pressure Ratings (Composite Metric)")
 print("=" * 70)
@@ -205,16 +195,13 @@ for team in sorted(finals_teams):
     if len(t_finals) == 0:
         continue
     
-    # Component 1: Q4 margin in finals (positive = outscored in the clutch)
+    
     q4_margin = (t_finals["q4"] - t_finals["opp_q4"]).mean()
     
-    # Component 2: Overall finals margin
     finals_margin = (t_finals["total"] - t_finals["opp_total"]).mean()
     
-    # Component 3: Opponent suppression (how much below avg they held opponents)
     team_sup = sup_df[sup_df["team"] == team]["suppression"].mean()
     
-    # Component 4: Accuracy hold (finals accuracy minus season accuracy)
     season_goals = t_season[["goals_q1","goals_q2","goals_q3","goals_q4"]].sum().sum()
     season_behinds = t_season[["behinds_q1","behinds_q2","behinds_q3","behinds_q4"]].sum().sum()
     season_acc = season_goals / max(season_goals + season_behinds, 1)
@@ -223,9 +210,8 @@ for team in sorted(finals_teams):
     finals_behinds = t_finals[["behinds_q1","behinds_q2","behinds_q3","behinds_q4"]].sum().sum()
     finals_acc = finals_goals / max(finals_goals + finals_behinds, 1)
     
-    acc_hold = (finals_acc - season_acc) * 100  # percentage point change
+    acc_hold = (finals_acc - season_acc) * 100  
     
-    # Composite: equal weight, standardised later
     pressure_ratings.append({
         "team": team,
         "finals_games": len(t_finals),
@@ -237,7 +223,7 @@ for team in sorted(finals_teams):
 
 pr_df = pd.DataFrame(pressure_ratings)
 
-# Composite score (simple: normalise each component 0-100, average)
+
 for col in ["q4_margin", "finals_margin", "opp_suppression", "accuracy_hold"]:
     mn, mx = pr_df[col].min(), pr_df[col].max()
     rng = mx - mn if mx != mn else 1
@@ -254,9 +240,7 @@ for _, r in pr_df.iterrows():
     print(f"{r['team']:24s} {r['finals_games']:5.0f} {r['q4_margin']:+8.1f} {r['finals_margin']:+9.1f} "
           f"{r['opp_suppression']:+9.1f} {r['accuracy_hold']:+9.1f} {r['pressure_rating']:8.1f}")
 
-# ============================================================
-# 7. FAVOURITE vs UNDERDOG
-# ============================================================
+# Fav vs Underdogs
 print("\n" + "=" * 70)
 print("ANALYSIS 7: Favourite vs Underdog in Finals")
 print("=" * 70)
@@ -293,9 +277,7 @@ total_decided = fav_wins + upsets
 print(f"\nFavourite won: {fav_wins}/{total_decided} ({fav_wins/max(total_decided,1)*100:.0f}%)")
 print(f"Upsets: {upsets}/{total_decided} ({upsets/max(total_decided,1)*100:.0f}%)")
 
-# ============================================================
-# 8. GRAND FINAL DEEP DIVE
-# ============================================================
+# Grand final
 print("\n" + "=" * 70)
 print("ANALYSIS 8: Grand Final Deep Dive")
 print("=" * 70)
@@ -339,9 +321,7 @@ bris_gf = gf["a_total"]  # Brisbane was away
 print(f"\nBrisbane Lions season avg: {bris_season:.1f}, GF score: {bris_gf}")
 print(f"  {'Above' if bris_gf > bris_season else 'Below'} season average by {abs(bris_gf - bris_season):.1f} pts")
 
-# ============================================================
-# VERDICT
-# ============================================================
+# Outcome
 print("\n" + "=" * 70)
 print("VERDICT: Do the teams that handle pressure best really win?")
 print("=" * 70)
