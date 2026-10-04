@@ -14,9 +14,7 @@ if r.status_code != 200:
 
 text = r.text
 
-# The real HTML pattern for each team line:
-# <a href="../teams/XXX">Team Name</a></td><td...><tt> Q1g.Q1b Q2g.Q2b Q3g.Q3b Q4g.Q4b </tt></td><td...> total</td>
-# with &nbsp; as spacing inside the <tt> block
+
 
 TEAM_LINE = re.compile(
     r'<a href="\.\./teams/[^"]+">([^<]+)</a></td>'
@@ -38,20 +36,20 @@ pending_home = None
 pending_venue = ""
 
 for line in lines:
-    # Check round header
+    
     rm = ROUND_PAT.search(line)
     if rm:
         current_round = int(rm.group(1))
         current_final_type = None
         continue
     
-    # Check finals header
+   
     fm = FINAL_PAT.search(line)
     if fm:
         current_final_type = fm.group(1)
         continue
     
-    # Check for a team game line
+  
     tm = TEAM_LINE.search(line)
     if not tm:
         continue
@@ -60,7 +58,7 @@ for line in lines:
     quarter_str = tm.group(2)
     total = int(tm.group(3))
     
-    # Extract the 4 quarter scores from the tt block
+   
     quarters = QUARTER_SCORES.findall(quarter_str)
     if len(quarters) != 4:
         continue
@@ -70,7 +68,7 @@ for line in lines:
     q3g, q3b = int(quarters[2][0]), int(quarters[2][1])
     q4g, q4b = int(quarters[3][0]), int(quarters[3][1])
     
-    # Check for venue in this line
+    # Venue
     vm = VENUE_PAT.search(line)
     if vm:
         pending_venue = vm.group(1)
